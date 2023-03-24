@@ -14,6 +14,9 @@ http://mybinder.org
 
 - circular motion:
 https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-circular.ipynb
+- waves:
+https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
+
 
 ## Downloading the notebooks
 
