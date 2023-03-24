@@ -81,4 +81,5 @@ At the begining of the notebooks you can find a statement configuring the graphi
 
 > %matplotlib notebook
 
-this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**.
+this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documenation for your chosen interface.
+
