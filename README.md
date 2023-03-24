@@ -8,7 +8,7 @@ http://mybinder.org
 
 ## Running the visualizations
 
-You can run the visualitzations directly in your web browser from the internet, without installing anything in your computer/device, by accessing the online binder notebooks at
+You can run the visualisations directly in your web browser from the internet, without installing anything in your computer/device, by accessing the online binder notebooks at
 
 http://mybinder.org
 
@@ -38,7 +38,7 @@ Programming language and interpreter. Already included in many operating systems
 - sympy https://www.sympy.org
 Python library for symbolic mathematics
 - numpy https://numpy.org/
-Python library for numercial computatios
+Python library for numerical computations
 - matplotlib https://matplotlib.org/
 Python library for visualization and plots
 
@@ -77,9 +77,9 @@ The notebooks, as they are provided, are configured to run on a classical jupyte
 
 you **must** make some changes in the configuration.
 
-At the begining of the notebooks you can find a statement configuring the graphics
+At the beginning of the notebooks you can find a statement configuring the graphics
 
 > %matplotlib notebook
 
-this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documenation for your chosen interface.
+this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documentation for your chosen interface.
 
