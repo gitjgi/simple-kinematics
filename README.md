@@ -27,7 +27,7 @@ Sometimes, if you leave your notebook inactive for a large time period, it will 
 If you want to keep your changes, you can download the notebook from the menu provided in binder to keep a local copy in your computer/device.
 ## Local installation
 
-It is not necessary to install anything in your computer/device to run the visualizations, you can run them online as explained before.
+It is not necessary to install anything in your computer/device to run the visualizations, you can run them online as explained above.
 
 But, if you wish, you can download the notebooks an run them locally in your computer/device.
 
