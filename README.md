@@ -11,3 +11,6 @@ http://mybinder.org
 You can run the visualitzations directly in your web browser from the internet, without installing anything in your computer/device, by accessing the online binder notebooks at
 
 http://mybinder.org
+
+- circular motion:
+https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-circular.ipynb
