@@ -14,3 +14,11 @@ http://mybinder.org
 
 - circular motion:
 https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-circular.ipynb
+
+## Downloading the notebooks
+
+Note that the changes that you make to the notebooks are non-permanent.
+Each time you start a session, it starts with the bare notebook, as published.
+Sometimes, if you leave your notebook inactive for a large time period, it will timeout and you will lose your changes.
+
+If you want to keep your changes, you can download the notebook from the menu provided in binder to keep a local copy in your computer/device.
