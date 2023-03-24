@@ -53,7 +53,7 @@ Jupyter notebook is necessary to run the notebooks as they are, but you can also
 
 #### Notebook interface
 
-- Download the notebooks, either from this github repositorym or from the binder pager.
+- Download the notebooks, either from this github repository or from the binder pager.
 - Start a jupyter notebook in your computer, and load the notebook.
 
 #### Non-notebook python program
@@ -69,11 +69,12 @@ You **need** to make some changes in the configuration. See below.
 
 #### Using other python interfaces
 
-The notebooks, as they are provided, are configured to run on a classical jupyter notebook interface. If you want them to run them in another interface like:
+The notebooks, as they are provided, are configured to run on a classical jupyter notebook interface. If you want to run them in another interface like:
 - non-notebook python program
 - IPython
 - the new notebook interface (called JupyterLab),
 - ...
+
 you **must** make some changes in the configuration.
 
 At the begining of the notebooks you can find a statement configuring the graphics
