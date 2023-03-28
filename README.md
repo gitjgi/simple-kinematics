@@ -12,11 +12,12 @@ You can run the visualisations directly in your web browser from the internet, w
 
 http://mybinder.org
 
+- parabolic motion: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-parabolic.ipynb
 - circular motion:
 https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-circular.ipynb
+- simple harmonic oscillation motion: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-harmonic.ipynb
 - waves:
 https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
-
 
 ## Downloading the notebooks
 
@@ -25,6 +26,7 @@ Each time you start a session, it starts with the bare notebook, as published.
 Sometimes, if you leave your notebook inactive for a large time period, it will timeout and you will lose your changes.
 
 If you want to keep your changes, you can download the notebook from the menu provided in binder to keep a local copy in your computer/device.
+
 ## Local installation
 
 It is not necessary to install anything in your computer/device to run the visualizations, you can run them online as explained above.
@@ -85,4 +87,3 @@ At the beginning of the notebooks you can find a statement configuring the graph
 > %matplotlib notebook
 
 this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documentation for your chosen interface.
-
