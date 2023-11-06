@@ -16,8 +16,10 @@ http://mybinder.org
 - circular motion:
 https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-circular.ipynb
 - simple harmonic oscillation motion: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-harmonic.ipynb
-- waves:
-https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
+- waves, split in several files:
+	- Complete file: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
+	- Example 01, travelling waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_viatgeres.ipynb
+
 
 ## Downloading the notebooks
 
