@@ -18,7 +18,7 @@ https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/veloci
 - simple harmonic oscillation motion: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/velocitat-accel-harmonic.ipynb
 - waves, split in several files:
 	- Complete file: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
-	- Example 01, travelling waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_viatgeres.ipynb
+	- Example 01, travelling waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_01_viatgeres.ipynb
 
 
 ## Downloading the notebooks
