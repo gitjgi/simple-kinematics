@@ -19,6 +19,7 @@ https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/veloci
 - waves, split in several files:
 	- Complete file: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft.ipynb
 	- Example 01, travelling waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_01_viatgeres.ipynb
+	- Example 02, harmonic waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_02_harmoniques.ipynb
 
 
 ## Downloading the notebooks
