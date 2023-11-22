@@ -22,6 +22,7 @@ https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/veloci
 	- Example 02, harmonic waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_02_harmoniques.ipynb
 	- Example 03, Interferences: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_03_interferencies.ipynb
 	- Example 04, Interferences+Standing Waves: https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_04_interferencies_estacionaries.ipynb
+	- Example 05, Interference: Beat (modulation): https://mybinder.org/v2/gh/gitjgi/simple-kinematics/release?urlpath=/tree/ones_foft_05_pulsacions.ipynb
 
 
 ## Downloading the notebooks
