@@ -93,3 +93,11 @@ At the beginning of the notebooks you can find a statement configuring the graph
 > %matplotlib notebook
 
 this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documentation for your chosen interface.
+
+## Acknowledgments
+
+This simulations have been developed for the "Projecte de Millora Docent" (Teaching Improvement Project) "Implementació de simulacions interactives de física bàsica" (Implementation of basic physics interactive simulations) 2022PMD-UB/011 https://www.ub.edu/rimda/content/implementaci%C3%B3-de-simulacions-interactives-de-f%C3%ADsica-b%C3%A0sica
+in the RIMDA program https://www.ub.edu/rimda/
+of Universitat de Barcelona http://www.ub.edu
+.
+
