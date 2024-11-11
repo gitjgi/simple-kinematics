@@ -1,5 +1,5 @@
 numpy
 sympy
-matplotlib
+matplotlib==3.6.2
 ipympl
 pandoc
