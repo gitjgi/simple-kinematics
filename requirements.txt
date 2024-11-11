@@ -2,4 +2,3 @@ numpy
 sympy
 matplotlib==3.6.3
 ipympl
-pandoc
