@@ -90,9 +90,15 @@ you **must** make some changes in the configuration.
 
 At the beginning of the notebooks you can find a statement configuring the graphics
 
+> %matplotlib widget
+
+this configuration is necessary to visualize the animations in the notebook provided by the online mybinder interface, but **if you use another interface, you must change this line accordingly**, or remove it altogether.
+
+If you use a classical jupyter notebook locally in in your computer you should use
+
 > %matplotlib notebook
 
-this configuration is necessary to visualize the animations in the classical notebook, but **if you use another interface, you must change this line accordingly**, or remove it altogether. You must read the documentation for your chosen interface.
+You must read the documentation for your chosen interface.
 
 ## Acknowledgments
 
