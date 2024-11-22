@@ -1,0 +1,8 @@
+name: simple-kinematics
+dependencies:
+      - python=3.11
+      - pandoc
+      - numpy
+      - sympy
+      - madplotlib
+      
