@@ -4,5 +4,5 @@ dependencies:
       - pandoc
       - numpy
       - sympy
-      - madplotlib
+      - matplotlib
       
