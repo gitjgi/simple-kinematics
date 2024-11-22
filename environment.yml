@@ -1,8 +1,12 @@
 name: simple-kinematics
 dependencies:
-      - python=3.11
-      - pandoc
-      - numpy
-      - sympy
-      - matplotlib
+  - python=3.11
+  - pandoc
+  - numpy
+  - sympy
+  - matplotlib
+  - jupyter_latex_envs
+  - jupyter_contrib_nbextensions
+  - pip:
+      - jupyterlab_latex
       
